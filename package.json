@@ -6,8 +6,7 @@
   "repository": "https://github.com/mylife-home/mylife-home-core-plugins-vpanel-timers",
   "author": "Vincent Trumpff",
   "dependencies": {
-    "convert-hrtime": "^1.0.0",
-    "log4js": "*"
+    "convert-hrtime": "^1.0.0"
   },
   "devDependencies": {
     "chai": "*",
