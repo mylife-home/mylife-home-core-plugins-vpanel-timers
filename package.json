@@ -1,6 +1,6 @@
 {
   "name": "mylife-home-core-plugins-vpanel-timers",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Mylife Home Core Plugin: VPanel Timers",
   "main": "index.js",
   "repository": "https://github.com/mylife-home/mylife-home-core-plugins-vpanel-timers",
